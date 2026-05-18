@@ -1,0 +1,8 @@
+{
+  "name": "Գոռ vs Գայանե: Տիեզերական Մրցույթ",
+  "description": "Spanish A1 competition for kids. Turn-based battle between Gor and Gayane covering Audio stories, Negatives, Pretérito Perfecto, and 3D review in a cosmic theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
